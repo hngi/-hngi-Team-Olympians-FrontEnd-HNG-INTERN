@@ -1,1 +1,1 @@
-# -hngi-Team-Olympians-FrontEnd-HNG-INTERN
+# Team-Olympians-FrontEnd-HNG-INTERN
